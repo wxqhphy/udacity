@@ -1,0 +1,7 @@
+activate tensorflow
+pip install opencv-python
+
+git add nerual_network
+git status
+git commit -m "nerual_network"
+git push origin master
