@@ -1,6 +1,7 @@
 activate tensorflow
 pip install opencv-python
 
+git clone git@github.com:wxqhphy/udacity.git
 git add nerual_network
 git status
 git commit -m "nerual_network"
